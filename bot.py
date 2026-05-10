@@ -8,7 +8,7 @@ ADMIN_ID = 7156406347
 ADMIN_USERNAME = "Taskman96"
 
 FREE_CHANNEL_LINK = "https://t.me/+_cg40wkjWBxhNjU9"
-PREMIUM_CHANNEL_LINK = "https://t.me/+WIBBIo-JaMljZjM1"
+PREMIUM_CHANNEL_LINK = "https://t.me/+gE2mtQCRP8IxYzI1"
 
 QR_FILE = "qr.png"
 USERS_FILE = "users.json"
