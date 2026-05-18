@@ -7,7 +7,7 @@ TOKEN = "8629584902:AAEuAPMIW6V0eTaRRxxwvmWT7EMbGl3r3zU"
 ADMIN_ID = 7156406347
 ADMIN_USERNAME = "Taskman96"
 
-FREE_CHANNEL_LINK = "https://t.me/+_cg40wkjWBxhNjU9"
+FREE_CHANNEL_LINK = "https://t.me/+RHgUD3P9XLczZmZl"
 PREMIUM_CHANNEL_LINK = "https://t.me/+v2lHS_eO-OxlY2Y1"
 
 QR_FILE = "qr.png"
