@@ -83,7 +83,7 @@ def premium(call):
             bot.send_photo(
                 call.message.chat.id,
                 photo,
-                caption="💎 PREMIUM ACCESS\n\n💰 Price: ₹30\n\nScan QR & pay, then send screenshot.",
+                caption="💎 PREMIUM ACCESS\n\n💰 Price: ₹50\n\nScan QR & pay, then send screenshot.",
                 reply_markup=markup
             )
     else:
